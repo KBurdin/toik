@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/setup.png</file>
+        <file>images/users.png</file>
+        <file>images/tasks.png</file>
+        <file>images/shed_to.png</file>
+        <file>images/exit.png</file>
+        <file>images/verify1.png</file>
+        <file>images/aes1.png</file>
+        <file>images/to2.png</file>
+        <file>images/calibrate1.png</file>
+        <file>images/sprav3.png</file>
+        <file>Translations/toik_ru.qm</file>
+        <file>clocklabel.cpp</file>
+        <file>clocklabel.h</file>
+        <file>dbman.cpp</file>
+        <file>dbman.h</file>
+        <file>logindialog.cpp</file>
+        <file>logindialog.h</file>
+        <file>main.cpp</file>
+        <file>maindialog.cpp</file>
+        <file>maindialog.h</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>printdialog.cpp</file>
+        <file>printdialog.h</file>
+        <file>rkdialog.cpp</file>
+        <file>rkdialog.h</file>
+        <file>rktablemodel.cpp</file>
+        <file>rktablemodel.h</file>
+        <file>rpdialog.cpp</file>
+        <file>rpdialog.h</file>
+        <file>rptablemodel.cpp</file>
+        <file>rptablemodel.h</file>
+        <file>rtodialog.cpp</file>
+        <file>rtodialog.h</file>
+        <file>rtotablemodel.cpp</file>
+        <file>rtotablemodel.h</file>
+        <file>sstsdialog.cpp</file>
+        <file>sstsdialog.h</file>
+    </qresource>
+</RCC>
